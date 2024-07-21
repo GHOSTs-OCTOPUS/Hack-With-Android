@@ -22,14 +22,17 @@ chmod +x install-sb.sh
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
 
-### Donate
+# Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
 - [doante page](https://github.com/GHOSTs-OCTOPUS/donate)
 # for any os :
-* [socialbox](https://github.com/GHOSTs-OCTOPUS/SocialBox)
+* TERMUX
+* Linux
 # Contact
-*[Github](https://github.com/GHOSTs-OCTOPUS) - GHOSTs-OCTOPUS
-*[Gmail](vikaskole786@gmail.com) - kole-vikas
-*[Instagram](https://www.instagram.com/kolevikki786) - kolevikki786
+* [Github](https://github.com/GHOSTs-OCTOPUS) - GHOSTs-OCTOPUS
+
+* [Gmail](vikaskole786@gmail.com) - kole-vikas
+
+* [Instagram](https://www.instagram.com/kolevikki786) - kolevikki786
 
 
