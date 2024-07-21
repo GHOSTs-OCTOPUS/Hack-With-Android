@@ -5,7 +5,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 apt-get update
 apt-get install git
 git clone https://github.com/GHOSTs-OCTOPUS/Hack-With-Android/SocialBox.git
-cd SocialBox-Termux
+cd SocialBox
 chmod +x install-sb.sh
 ./install-sb.sh
 ```
